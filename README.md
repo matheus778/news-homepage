@@ -10,6 +10,8 @@ Os usuários devem ser capazes de:
 - Veja os estados de foco para todos os elementos interativos na página
 - **Bônus**: Alterne o menu móvel (requer algum JavaScript)
 
+### Link para testar: [Clique aqui para testar](https://matheus778.github.io/news-homepage/) 🚀
+
 ### Captura de tela
 
 ![Captura da Web_6-12-2022_201148_](https://user-images.githubusercontent.com/57428641/206046697-a5eb3cda-814a-4dd7-92e7-7c2be383b588.jpeg)
