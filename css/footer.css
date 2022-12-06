@@ -34,6 +34,12 @@
 
 .item-footer-container h2 {
   font-size: 1.9rem;
+  cursor: pointer;
+  transition: 400ms;
+}
+
+.item-footer-container h2:hover {
+  color: var(--soft-red);
 }
 
 .item-footer-container p {
