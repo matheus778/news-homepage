@@ -1,5 +1,5 @@
 .footer-container {
-  width: 100%;
+  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
   margin-top: 8rem;
@@ -39,4 +39,10 @@
 .item-footer-container p {
   font-size: 1.6rem;
   color: var(--dark-grayish-blue);
+}
+
+@media(max-width:900px) {
+  .footer-container {
+    flex-direction: column;
+  }
 }

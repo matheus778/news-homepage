@@ -93,3 +93,21 @@
   color: var(--dark-grayish-blue);
   font-size: 1.6rem;
 }
+
+@media(max-width:880px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .bg-image{
+    width: 100%;
+  }
+
+  .conteudo-content {
+    flex-direction: column;
+  }
+
+  .news-container {
+    width: 100%;
+  }
+}
